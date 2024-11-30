@@ -2582,4 +2582,10 @@ export default <ConnectorMeta[]>[
 		js: 'echo.js',
 		id: 'echo',
 	},
+	{
+		label: 'Progulus',
+		matches: ['*://progulus.com/*'],
+		js: 'progulus.js',
+		id: 'progulus',
+	},
 ];
